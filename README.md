@@ -1,9 +1,9 @@
 # selenium-agile-travel-automation
 Selenium WebDriver automation for Agile Travel Demo website
 
-\# Selenium Automation – Agile Travel Demo Website
+# Selenium Automation – Agile Travel Demo Website
 
-\## Tech Stack
+## Tech Stack
 
 \- Java
 
@@ -15,13 +15,13 @@ Selenium WebDriver automation for Agile Travel Demo website
 
 
 
-\## Project Description
+## Project Description
 
 This project contains Selenium WebDriver automation scripts for testing core functionalities of Agile Travel, a flight booking demo website.
 
 
 
-\## Automated Scenarios
+## Automated Scenarios
 
 \- Login validation
 
@@ -35,7 +35,7 @@ This project contains Selenium WebDriver automation scripts for testing core fun
 
 
 
-\## How to Run
+## How to Run
 
 1\. Clone the repository
 
